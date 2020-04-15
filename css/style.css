@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+#title {
+	color: white;
+	background-color: black;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.normal {
+	color:grey;
+	Size: 2em;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+a{
+	color: orange
+}
+
+body {
+	background-color: aliceblue;
+}
